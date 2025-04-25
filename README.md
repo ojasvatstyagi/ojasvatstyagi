@@ -38,9 +38,9 @@ I’ve built a legal-tech platform from scratch, pitched projects in front of fa
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/ojas--tyagi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-tyagi)
-[![Instagram](https://img.shields.io/badge/@ojas__tyagi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ojas__tyagi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojastyagi753@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/ojas--tyagi-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ojas-tyagi)
+[![Instagram](https://img.shields.io/badge/@ojas__tyagi-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ojas__tyagi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ojastyagi753@gmail.com)
 
 ---
 
@@ -88,14 +88,6 @@ I’ve built a legal-tech platform from scratch, pitched projects in front of fa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=ojasvatstyagi&theme=react&hide_border=false&show_icons=true)<br/>
-![Streak](https://streak-stats.demolab.com/?user=ojasvatstyagi&theme=react&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvatstyagi&layout=compact&theme=react&hide_border=false)
 
 ---
 
