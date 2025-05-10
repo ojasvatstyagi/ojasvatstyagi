@@ -1,3 +1,4 @@
+![An expert in anything was once a beginner](Keep%20it%20simple.2.png)
 <h1 align="center">Hey there! 👋 I'm Ojas Tyagi</h1>
 <h3 align="center">Full-Stack Developer | Java Spring Boot Enthusiast | Legal-tech & Team Collaboration Builder</h3>
 
