@@ -45,6 +45,8 @@ I’ve built a legal-tech platform from scratch, pitched projects in front of fa
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvatstyagi)
+
 ## 💻 Tech Stack
 
 ### 💡 Languages & Frameworks
