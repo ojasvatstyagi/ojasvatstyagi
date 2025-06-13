@@ -45,11 +45,46 @@ I’ve built a legal-tech platform from scratch, pitched projects in front of fa
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojasvatstyagi&show_icons=true&theme=algolia&hide_border=true&count_private=true)](https://github.com/ojasvatstyagi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvatstyagi&layout=compact&theme=algolia&hide_border=true)](https://github.com/ojasvatstyagi)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ojasvatstyagi&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojasvatstyagi&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Ojas Tyagi GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvatstyagi&layout=compact&theme=algolia&hide_border=true" alt="Ojas Tyagi Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=ojasvatstyagi&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=ojasvatstyagi&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+<p align="center">
+  <em>Note: GitHub stats badges are dynamic and may occasionally show errors or lag due to external service rate limits or caching. If they don't load, please try refreshing the page later.</em>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ojasvatstyagi&theme=algolia&no-bg=true&margin-w=8)
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ojasvatstyagi&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+---
+
+## ✍️ Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojasvatstyagi&bg_color=1d1e2e&color=7585a9&line=5e76a6&point=37a77b&area=true&hide_border=true" />
+</p>
 
 ---
 
@@ -96,33 +131,6 @@ I’ve built a legal-tech platform from scratch, pitched projects in front of fa
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ojasvatstyagi&theme=algolia&no-bg=true&margin-w=8)
-
----
-
-## ✍️ Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-
-## 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ojasvatstyagi&limit=5&theme=react&combine_all_yearly_contributions=true)
-
----
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojasvatstyagi&bg_color=1d1e2e&color=7585a9&line=5e76a6&point=37a77b&area=true&hide_border=true" />
-</p>
 
 ---
 
