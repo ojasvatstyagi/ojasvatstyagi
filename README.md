@@ -45,7 +45,13 @@ I’ve built a legal-tech platform from scratch, pitched projects in front of fa
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvatstyagi)
+## 📈 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ojasvatstyagi&show_icons=true&theme=algolia&hide_border=true&count_private=true)](https://github.com/ojasvatstyagi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojasvatstyagi&layout=compact&theme=algolia&hide_border=true)](https://github.com/ojasvatstyagi)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ojasvatstyagi&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+
+---
 
 ## 💻 Tech Stack
 
@@ -109,6 +115,14 @@ I’ve built a legal-tech platform from scratch, pitched projects in front of fa
 ## 🔝 Top Contributed Repo
 
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ojasvatstyagi&limit=5&theme=react&combine_all_yearly_contributions=true)
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojasvatstyagi&bg_color=1d1e2e&color=7585a9&line=5e76a6&point=37a77b&area=true&hide_border=true" />
+</p>
 
 ---
 
