@@ -1,4 +1,11 @@
-![An expert in anything was once a beginner](Keep%20it%20simple.2.png)
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojasvatstyagi&bg_color=1d1e2e&color=7585a9&line=5e76a6&point=37a77b&area=true&hide_border=true" />
+</p>
+
+---
+
 <h1 align="center">Hey there! 👋 I'm Ojas Tyagi</h1>
 <h3 align="center">Full-Stack Developer | Java Spring Boot Enthusiast | Legal-tech & Team Collaboration Builder</h3>
 
@@ -77,14 +84,6 @@ I’ve built a legal-tech platform from scratch, pitched projects in front of fa
 ## ✍️ Dev Quote
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-
-## 📊 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojasvatstyagi&bg_color=1d1e2e&color=7585a9&line=5e76a6&point=37a77b&area=true&hide_border=true" />
-</p>
 
 ---
 
