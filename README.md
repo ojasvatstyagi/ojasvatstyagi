@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-🚀 Currently building **[Peerospace](https://github.com/ojasvatstyagi/peerospace)** – a collaborative platform for team building, project pitching, task management, and peer reviews.<br>
+🚀 Currently building **[Collabro](https://github.com/ojasvatstyagi/Collabro)** – a collaborative platform for team building, project pitching, task management, and peer reviews.<br>
 🔧 Refining **J.A.M.E.S** by migrating to **Spring Boot**, aiming for modularity and scalability in legal-tech.<br>
 🛠️ Open to collaborating on **open-source** or **academic projects** involving **Java Spring Boot**, **MongoDB/PostgreSQL**, or **React**, especially in **legal-tech**, **ed-tech**, or **AI-integrated** domains.<br>
 📦 Actively learning **AWS ECS**, **Docker**, and **CI/CD** best practices for full-stack Java apps.<br>
